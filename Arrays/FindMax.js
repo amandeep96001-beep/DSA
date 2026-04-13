@@ -1,5 +1,5 @@
 
-const arr = [1, 2, 3, 4, 5];
+const arr = [23,23,5,23,23,5,2354,2,523];
 
 const findMax = (arr) => {
     let max = arr[0];
