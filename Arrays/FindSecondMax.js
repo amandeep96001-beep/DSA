@@ -1,4 +1,3 @@
-
 const arr = [3,23,5,23,5,6,7,345,234,34];
 
 function findSecondMax(arr) {
